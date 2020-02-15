@@ -1,10 +1,11 @@
-# REST API implementation with [Spring](http://spring.io)
-
-<div>
-    <center>
-    <img src="https://www.javacodegeeks.com/wp-content/uploads/2014/09/logo-spring-io.png" alt="spring.io">
-    </center>
+<h1 align="center">
+    <a target="_blank" href="https://spring.io">
+        <img src="https://www.javacodegeeks.com/wp-content/uploads/2014/09/logo-spring-io.png" alt="spring.io">
+    </a>    
 </div>
+
+## REST API implementation with [Spring](http://spring.io)
+
 
 This is a very simple implementation of REST API (ish) in java using the Spring Web Framework.
 
